@@ -51,6 +51,7 @@ body::before{
     justify-content: space-evenly;
     perspective: 3000px;
     margin-top: 2rem;
+    overflow-x: hidden;
 }
 
 .s-cards-carousel{
